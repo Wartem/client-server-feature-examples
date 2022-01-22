@@ -19,4 +19,8 @@
  Some techniques and APIn used:
  TCP. Socket, ServerSocket, DataIn and OutPutStreams, 
  Multithreaded, synchronization when using many threads, 
- InputStreamReader, BufferedReader 
+ InputStreamReader, BufferedReader
+ 
+ ________
+ 
+ IDE: intellij.
