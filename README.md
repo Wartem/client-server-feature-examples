@@ -1,5 +1,5 @@
 # client-server-feature-examples
- Client & Server - usecases like chat.
+ Client & Server - use cases like chat.
  
  The first step has been taken in this project.
  More features can be added later.
