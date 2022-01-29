@@ -9,10 +9,10 @@
  Frequent refactoring and cleaning up before adding more code. 
  ________
  
- After first commit:
  
  Clients connects to a local server. The server creates one thread per client
  and broadcasts messages from clients to all connected clients.
+ A class handles the message data when it's not in Json-format.
  
  Json is used when sending data, according to a protocol.
  
